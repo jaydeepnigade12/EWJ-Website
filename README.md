@@ -1,1 +1,1 @@
-# EWJ---Website
+# EWJ-Website
